@@ -1,0 +1,69 @@
+body 
+{
+    background: url(images/can-2015.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+table
+{
+    border: 0;
+}
+
+.lien_accueil
+{
+    text-decoration: none;
+    color: white;
+}
+
+.lien_postes
+{
+    text-decoration: none;
+    color: white;
+}
+
+.lien_joueurs
+{
+    text-decoration: none;
+    color: white;
+}
+
+.lien_source_match
+{
+    text-decoration: none;
+    color: white;
+}
+
+#active
+{
+    background-color: #555555;
+}
+
+
+.accueil:hover
+{
+    color: black;
+    background-color: silver;
+    cursor: pointer;
+}
+
+.postes:hover
+{
+    color: black;
+    background-color: silver;
+    cursor: pointer;
+}
+
+.joueurs:hover
+{
+    color: black;
+    background-color: silver;
+    cursor: pointer;
+}
+
+.source_match:hover
+{
+    color: black;
+    background-color: silver;
+    cursor: pointer;
+}
